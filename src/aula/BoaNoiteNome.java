@@ -1,3 +1,5 @@
+package aula;
+
 import java.util.Scanner;
 
 public class BoaNoiteNome {

@@ -1,3 +1,5 @@
+package aula;
+
 import java.util.Scanner;
 
 public class IMC {
@@ -15,7 +17,7 @@ public class IMC {
 
     float imc = (float) peso / (altura * altura);
 
-    System.out.printf("O valor do seu IMC é %.2f", imc);
+    System.out.printf("O valor do seu aula.IMC é %.2f", imc);
   }
 
 }
