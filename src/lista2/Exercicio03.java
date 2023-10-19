@@ -9,6 +9,7 @@ public class Exercicio03 {
 
     System.out.print("Digite 'F' para Feminino e 'M' para Masculino: ");
     var sexo = scanner.next();
+    sexo = sexo.toUpperCase();
 
     if (sexo.equals("F")) {
       System.out.println("Feminino");
