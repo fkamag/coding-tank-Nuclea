@@ -5,6 +5,8 @@ lista 1 - https://wiki.python.org.br/EstruturaSequencial
 
 lista 2 - https://wiki.python.org.br/EstruturaDeDecisao
 
+lista 3 - https://wiki.python.org.br/EstruturaDeRepeticao
+
 e os demais foram dados em aula
 
 
