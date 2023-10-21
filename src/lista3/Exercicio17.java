@@ -7,7 +7,7 @@ public class Exercicio17 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
-    System.out.print("Cálculo de Fatoria. Digite um número: ");
+    System.out.print("Cálculo de Fatorial. Digite um número: ");
     int numero = scanner.nextInt();
     String mensagem = numero + "!=";
     int total = 1;
